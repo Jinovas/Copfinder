@@ -1,2 +1,2 @@
 # Copfinder
-This I discovered a long time ago and it actually works with all emergency services that use Cradlepoint wifi/4G routers. This isn't my finished version, have a better one in the works. 
+This I discovered a long time ago and it actually works with all emergency services that use Cradlepoint wifi/4G routers. This isn't my finished version, have a better one in the works. Undo's as well. So if you're ever curious if any emergency services are nearby, just put your wifi into monitor mode and run like "copfinder wlan1" or whatever your wifi device is. Only works to the range of your card as well. Works even better with Alfa AWUS036ACH 
